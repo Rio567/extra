@@ -1,0 +1,58 @@
+/* html{
+    background-image: url(https://thumbs.dreamstime.com/b/beautiful-japanese-anime-girl-pictures-280672603.jpg);
+    
+} */
+.container {
+  background: rgb(255, 30, 0);
+}
+.container2 {
+  background-color: greenyellow;
+  color: blue;
+  width: 50vw;
+  opacity: 0.8;
+  
+}
+/* .container3{
+   background-color: darkgrey;
+   position: relative; 
+    border: 1px solid #ccc;
+   
+} */
+.container4{
+    background-color: cornflowerblue;
+    width:70vw;
+    height:70vh;
+    margin:13px;
+    /* padding:13px 43px; */
+    border:2px solid black;
+    border-radius:15px;
+}
+.inner_container_4_1{
+    background-color: rgb(166, 241, 166);
+    width:50%;
+    height:50%;
+    border:2px dotted red;
+    /* text-align: right; */
+    /* display:none;*/
+    /* display:block; */
+    /* display:inline;  */
+    display:inline-block;
+    /* font-size:larger; */
+    /* font-style:oblique; */
+    /* font-variant:small-caps; */
+    /* font-weight:1200px; */
+}
+.inner_container_4_2{
+    background-color: rgb(167, 166, 241);
+    width:35%;
+    height:15%;
+    border:2px dotted rgb(255, 251, 0);
+    /* text-align: center; */
+    /* text-align:justify;     */
+    /* text-shadow:2px 2px red; */
+    /* display:inline; */
+    /* display:inline-block; */
+    /* font-family: 'Single Day', cursive; */
+
+}
+
